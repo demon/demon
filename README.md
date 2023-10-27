@@ -1,6 +1,3 @@
-Free-form profiles? What Myspace-esque devilry is this?!
+Hello! I'm Chad. I've been on the internet for a long time. I work for an awesome place called [Rad AI](https://github.com/radaisystems) doing DevOps/SRE work. In past lifetimes, I was at [@wikimedia](https://github.com/wikimedia) doing all kinds of open source stuff. Python is my jam, I write way too much Yaml for my own good, and I've been practicing DevOps longer than it's been a job title. 
 
-Hello! I'm Chad. I've been on the internet for a long time. I spent many years working [@wikimedia](https://github.com/wikimedia) doing all kinds of cool open source stuff.
-Python is my jam, I write way too much Yaml for my own good, and I've been practicing DevOps longer than it's been a job title.
-
-PS: When I'm not doing code stuff, I'm usually playing with my dog Tobi 🐕
+When I'm not doing code stuff, I'm usually playing with my dog Tobi 🐕
